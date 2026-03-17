@@ -1,4 +1,4 @@
-# serr
+# serr [![Go Reference](https://pkg.go.dev/badge/github.com/daaku/serr.svg)](https://pkg.go.dev/github.com/daaku/serr)
 
 Package serr provides stackful errors and nothing else.
 
